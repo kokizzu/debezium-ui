@@ -9,6 +9,10 @@ Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/
 
 # Debezium UI
 
+_**Note**: This project is archived.
+The UI specific for Kafka Connect deployment is not developed.
+Please see [Debezium Platform](http://github.com/debezium/debezium-platform/) as the new management solution for Debezium Server._
+
 ![image](https://github.com/debezium/debezium-ui/assets/8264372/fe5be39f-33dd-45de-a7c6-fcb8b91207b3)
 
 
